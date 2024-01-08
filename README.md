@@ -45,15 +45,15 @@ python scrape_data.py
 The data collected is stored in the CSV file with the following structure:
 
 \`\`\`plaintext
-doctor_id, name, specialty, ... (other fields)
-1, Dr. John Doe, Cardiology, ...
+Name, Title , Gender, Expertise , Research Interests , Phone , Location , Education 
+1, JanetHilbert, MD,Female, PulmonaryDisease Medicine, SleepMedicine, CriticalCare Medicine,Internal Medicine,(203)287-3550,Yale SleepCenter8 Devine StNorth Haven,CT 06473,CornellUniversity;SUNYDownstateCollegeMedicine,Brooklyn,NY
 2, Dr. Jane Smith, Neurology, ...
 \`\`\`
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-EOF
+
 
 
 
