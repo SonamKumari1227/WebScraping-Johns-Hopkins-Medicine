@@ -22,5 +22,10 @@ This project involves web scraping data from [Johns Hopkins Medicine](https://ww
 Clone the repository:
 
 ```bash
-git clone https://github.com/SonamKumari1227/WebScraping-hopkinsmedicine.git
+git clone ttps://github.com/SonamKumari1227/WebScraping-Johns-Hopkins-Medicine.git
 cd WebScraping-Johns-Hopkins-Medicine
+Install dependencies:
+
+```bash
+Copy code
+pip install -r requirements.txt
